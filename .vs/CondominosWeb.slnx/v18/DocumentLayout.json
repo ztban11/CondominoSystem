@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|c:\\users\\yossc\\source\\repos\\condominosweb\\condominosweb\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|solutionrelative:condominosweb\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|c:\\users\\yossc\\source\\repos\\condominosweb\\condominosweb\\scripts\\registro.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|solutionrelative:condominosweb\\scripts\\registro.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|c:\\users\\yossc\\source\\repos\\condominosweb\\condominosweb\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|solutionrelative:condominosweb\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|c:\\users\\yossc\\source\\repos\\condominosweb\\condominosweb\\models\\condomino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|solutionrelative:condominosweb\\models\\condomino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|c:\\users\\yossc\\source\\repos\\condominosweb\\condominosweb\\services\\condominoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|solutionrelative:condominosweb\\services\\condominoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|c:\\users\\yossc\\source\\repos\\condominosweb\\condominosweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{CE22F2E0-7B9B-4BDE-89B0-A3EF62A332BA}|CondominosWeb\\CondominosWeb.csproj|solutionrelative:condominosweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
@@ -14,11 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "registro.js",
+              "DocumentMoniker": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\CondominosWeb\\Scripts\\registro.js",
+              "RelativeDocumentMoniker": "CondominosWeb\\Scripts\\registro.js",
+              "ToolTip": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\CondominosWeb\\Scripts\\registro.js",
+              "RelativeToolTip": "CondominosWeb\\Scripts\\registro.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-19T04:20:17.498Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Registro.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\CondominosWeb\\Registro.aspx.cs",
+              "RelativeDocumentMoniker": "CondominosWeb\\Registro.aspx.cs",
+              "ToolTip": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\CondominosWeb\\Registro.aspx.cs",
+              "RelativeToolTip": "CondominosWeb\\Registro.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T02:22:33.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\CondominosWeb\\Registro.aspx",
+              "RelativeDocumentMoniker": "CondominosWeb\\Registro.aspx",
+              "ToolTip": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\CondominosWeb\\Registro.aspx",
+              "RelativeToolTip": "CondominosWeb\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-18T23:54:02.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CondominoService.cs",
+              "DocumentMoniker": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\CondominosWeb\\Services\\CondominoService.cs",
+              "RelativeDocumentMoniker": "CondominosWeb\\Services\\CondominoService.cs",
+              "ToolTip": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\CondominosWeb\\Services\\CondominoService.cs",
+              "RelativeToolTip": "CondominosWeb\\Services\\CondominoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:42:59.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Condomino.cs",
+              "DocumentMoniker": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\CondominosWeb\\Models\\Condomino.cs",
+              "RelativeDocumentMoniker": "CondominosWeb\\Models\\Condomino.cs",
+              "ToolTip": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\CondominosWeb\\Models\\Condomino.cs",
+              "RelativeToolTip": "CondominosWeb\\Models\\Condomino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T22:09:49.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\yossc\\source\\repos\\CondominosWeb\\CondominosWeb\\Default.aspx",
               "RelativeDocumentMoniker": "CondominosWeb\\Default.aspx",
@@ -28,14 +117,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-02-18T20:16:23.732Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

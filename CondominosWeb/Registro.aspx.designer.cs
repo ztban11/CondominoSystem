@@ -11,7 +11,7 @@ namespace CondominosWeb
 {
 
 
-    public partial class Default
+    public partial class Registro
     {
 
         /// <summary>

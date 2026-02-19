@@ -10,6 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <a href="Registro.aspx">Registro</a>
         </div>
     </form>
 </body>
